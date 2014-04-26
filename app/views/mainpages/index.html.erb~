@@ -1,0 +1,73 @@
+
+<table class="table table-bordered">
+
+
+
+
+<thead>
+        <tr>
+          <th>Question</th>
+          <th>Number of answers</th>
+         
+        </tr>
+      </thead>
+
+     <tbody>
+        <tr>
+
+          <td><p class="bg-primary">How to use the trigonometric ratio, tangent,to find the height of a balloon?</p></td>
+          <td><b>1</b></td>
+          <td><button type="button" class="btn btn-primary btn-lg">  
+  <span class="glyphicon glyphicon-user"></span> User  
+</button>  
+
+        </tr>
+        <tr>
+
+          <td><p class="bg-primary">How to calculate the length of the triangle with tan θ ?</p></td>
+          <td><b>1</b></td>
+          <td>@mdo</td>
+        </tr>
+
+ <tr>
+
+          <td><p class="bg-primary">How to use the trigonometric ratio, tangent,to find the height of a balloon?</p></td>
+          <td><b>1</b></td>
+          <td>@mdo</td>
+        </tr>
+
+     <tr>
+
+          <td><p class="bg-success">...</p></td>
+          <td><b>1</b></td>
+          <td>@mdo</td>
+
+        </tr>
+
+  <tr>
+
+          <td><p class="bg-info">...</p></td>
+          <td><b>1</b></td>
+          <td>@mdo</td>
+
+        </tr>
+
+  <tr>
+
+          <td><p class="bg-success">...</p></td>
+          <td><b>1</b></td>
+          <td>@mdo</td>
+
+        </tr>
+
+  <tr>
+
+          <td><p class="bg-warning">...</p></td>
+          <td><b>1</b></td>
+          <td>@mdo</td>
+
+        </tr>
+
+
+      </tbody>
+</table>
