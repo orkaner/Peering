@@ -1,27 +1,5 @@
 
-<div class="container">
-  <div class="row">
-    <div class="col-xs-10"><p class="bg-primary">How to use the trigonometric ratio, tangent,to find the height of a balloon?</p></div>
-    <div class="col-xs-1"><b>1</b></div>
-    <div class="col-xs-1"><button type="button" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-user"></span> User  </button></div>
-  </div>
-  <div class="row">
-    <div class="col-xs-10"><p class="bg-primary">How to calculate the length of the triangle with tan θ ?</p></div>
-    <div class="col-xs-1"><b>1</b></div>
-    <div class="col-xs-1">@mdo</div>
-  </div>
-  <div class="row">
-    <div class="col-xs-10"><p class="bg-primary">How to use the trigonometric ratio, tangent,to find the height of a balloon?</p></div>
-    <div class="col-xs-1"><b>1</b></div>
-    <div class="col-xs-1">@mdo</div>
-  </div>
-  <div class="row">
-    <div class="col-xs-10"><p class="bg-success">...</p></div>
-    <div class="col-xs-1"><b>1</b></div>
-    <div class="col-xs-1">@mdo</div>
-  </div>
-</div>
-<table class="table table-bordered">
+<table class="table">
 
 
 
@@ -29,60 +7,42 @@
      <tbody>
         <tr>
 
-          <td><p class="bg-primary">How to use the trigonometric ratio, tangent,to find the height of a balloon?</p></td>
+          <td><p class="text-info">How to use the trigonometric ratio, tangent,to find the height of a balloon?</p></td>
           <td><b>1</b></td>
-          <td><button type="button" class="btn btn-primary btn-lg">  
-  <span class="glyphicon glyphicon-user"></span> User  
+          <td><button type="button" class="btn btn-info btn-sm"></span><a href="/answers/">See Answers </a></td>
+ 
 </button>  
 
         </tr>
         <tr>
 
-          <td><p class="bg-primary">How to calculate the length of the triangle with tan θ ?</p></td>
-          <td><b>1</b></td>
-          <td>@mdo</td>
+          <td><p class="text-info">How to calculate the length of the triangle with tan θ ?</p></td>
+          <td><b>0</b></td>
+          <td></td>
         </tr>
 
  <tr>
 
-          <td><p class="bg-primary">How to use the trigonometric ratio, tangent,to find the height of a balloon?</p></td>
-          <td><b>1</b></td>
-          <td>@mdo</td>
+          <td><p class="text-info">How to use the trigonometric ratio, tangent,to find the height of a balloon?</p></td>
+          <td><b>0</b></td>
+          <td></td>
         </tr>
 
      <tr>
 
-          <td><p class="bg-success">...</p></td>
+          <td><p class="text-success">What momentum would the bicycle have if it had twice the mass and was moving at the same speed?</p></td>
           <td><b>1</b></td>
-          <td>@mdo</td>
+    <td><button type="button" class="btn btn-success btn-sm"></span><a href="/answers/">See Answers </a></td>
 
         </tr>
 
-  <tr>
-
-          <td><p class="bg-info">...</p></td>
-          <td><b>1</b></td>
-          <td>@mdo</td>
-
-        </tr>
-
-  <tr>
-
-          <td><p class="bg-success">...</p></td>
-          <td><b>1</b></td>
-          <td>@mdo</td>
-
-        </tr>
-
-  <tr>
-
-          <td><p class="bg-warning">...</p></td>
-          <td><b>1</b></td>
-          <td>@mdo</td>
-
-        </tr>
-
-
+ 
       </tbody>
 </table>
 
+<div class="modal-footer">    
+<div class="span12" style="text-align:center">
+
+   <button type="button" class="btn btn-primary btn-sm"><a href="/mainpages/"> Add a Question 
+</div>
+</div>
