@@ -1,4 +1,26 @@
 
+<div class="container">
+  <div class="row">
+    <div class="col-xs-10"><p class="bg-primary">How to use the trigonometric ratio, tangent,to find the height of a balloon?</p></div>
+    <div class="col-xs-1"><b>1</b></div>
+    <div class="col-xs-1"><button type="button" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-user"></span> User  </button></div>
+  </div>
+  <div class="row">
+    <div class="col-xs-10"><p class="bg-primary">How to calculate the length of the triangle with tan θ ?</p></div>
+    <div class="col-xs-1"><b>1</b></div>
+    <div class="col-xs-1">@mdo</div>
+  </div>
+  <div class="row">
+    <div class="col-xs-10"><p class="bg-primary">How to use the trigonometric ratio, tangent,to find the height of a balloon?</p></div>
+    <div class="col-xs-1"><b>1</b></div>
+    <div class="col-xs-1">@mdo</div>
+  </div>
+  <div class="row">
+    <div class="col-xs-10"><p class="bg-success">...</p></div>
+    <div class="col-xs-1"><b>1</b></div>
+    <div class="col-xs-1">@mdo</div>
+  </div>
+</div>
 <table class="table table-bordered">
 
 
@@ -9,8 +31,8 @@
 
           <td><p class="bg-primary">How to use the trigonometric ratio, tangent,to find the height of a balloon?</p></td>
           <td><b>1</b></td>
-          <td><button type="button" class="btn btn-danger btn-sm"href="answers/">See Answers
- 
+          <td><button type="button" class="btn btn-primary btn-lg">  
+  <span class="glyphicon glyphicon-user"></span> User  
 </button>  
 
         </tr>
@@ -63,3 +85,4 @@
 
       </tbody>
 </table>
+
